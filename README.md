@@ -1,8 +1,6 @@
 - 👋 Hi, I’m [@wgb-10](https://github.com/wgb-10)
-- 👀 I’m interested in AI, web dev, game dev, and security
-- 🌱 I’m currently in my final year of university. My courses include Robotics, 3D graphics and Animation and Data Mining and Machine Learning 
-- 💞️ I’m looking to collaborate on projects in AI and web dev
-- 📫 Email: [wesley.barreto610@gmail.com](mailto:wesley.barreto610@gmail.com) | Linkedin: [linkedin.com/in/wesley-barreto](https://www.linkedin.com/in/wesley-barreto/) 
+- 👀 I’m interested in AI, web dev, game dev, and computer security.
+- 📫 Please feel free to contact me via Email: [wesley.barreto610@gmail.com](mailto:wesley.barreto610@gmail.com) | Linkedin: [linkedin.com/in/wesley-barreto](https://www.linkedin.com/in/wesley-barreto/) 
 
 
 <!---
