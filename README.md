@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [@wgb-10](https://github.com/wgb-10)
-- 👀 I’m interested and willing to expand my knowledge in AI, Web Dev, Game Dev, and Computer Security. Also interested in applying AI in the fields of Education, Psychology and Medicine   
+- 👀 I’m interested and willing to expand my knowledge in AI, Software and Systems Engineering. Also interested in applying AI in the fields of Education, Psychology and Medicine   
 - 📫 Please feel free to contact me via Email: [wesley.barreto610@gmail.com](mailto:wesley.barreto610@gmail.com) | Linkedin: [linkedin.com/in/wesley-barreto](https://www.linkedin.com/in/wesley-barreto/) 
 
 
