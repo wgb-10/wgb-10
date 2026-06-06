@@ -1,5 +1,5 @@
-- 👋 Hi, I’m [@wgb-10](https://github.com/wgb-10)
-- 👀 I’m interested and willing to expand my knowledge in AI, Software and Systems Engineering. Also interested in applying AI in the fields of Education, Psychology and Medicine   
+- 👋 Software Developer @ Sim Institute making business simulation games for education and training.
+- 👀 Interested in applied AI, Software and Systems Engineering.   
 - 📫 Please feel free to contact me via Email: [wesley.barreto610@gmail.com](mailto:wesley.barreto610@gmail.com) or Linkedin: [linkedin.com/in/wesley-barreto](https://www.linkedin.com/in/wesley-barreto/) 
 
 
